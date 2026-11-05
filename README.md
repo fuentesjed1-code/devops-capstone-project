@@ -1,4 +1,8 @@
 # DevOps Capstone Project
+
+![Build Status](https://github.com/fuentesjed1-code/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+
 # Final Course for my DevOps & Software Engineering course
 
 
